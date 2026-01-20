@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# DuckDB / local files
+db/*.duckdb
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
