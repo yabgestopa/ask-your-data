@@ -49,17 +49,18 @@ This demonstrates how to integrate an LLM into analytics without sacrificing:
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ### 2) Create the sample database
 ```bash
-python data\make_data.py```
+python data\make_data.py
+```
 
 ### 3) Run the app
 ```bash
-streamlit run app.py```
-
-
+streamlit run app.py
+```
 
 ## Screenshots
 
